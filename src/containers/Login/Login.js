@@ -13,7 +13,7 @@ class Login extends Component {
            <div>
                 <h1 className={classes.check}>checkkkk</h1>
                 ojhkhjbj<span className={classes.testing}>checkkkk</span><br></br>
-                ojhkhjbj<span className="testing">checkkkk</span>
+                
                 <div className="testing">
                     ojhkhjbj<span className={classes.testing}>checkkkk</span><br></br>
                     ojhkhjbj<span className="testing">checkkkk</span>
